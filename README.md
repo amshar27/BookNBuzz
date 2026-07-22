@@ -248,8 +248,4 @@ them. If you want to start completely fresh, delete `booknbuzz.db`, run
 `python manage.py migrate` to rebuild the schema, and then run
 `python manage.py seed_demo` once more.
 
----
 
-Repo: [github.com/amshar27/BookNBuzz](https://github.com/amshar27/BookNBuzz) ·
-Found a bug or have a suggestion? Open an
-[issue](https://github.com/amshar27/BookNBuzz/issues).
